@@ -1,0 +1,833 @@
+{
+    "graphicalViews": [
+        {
+            "anonymousAccess": "NONE",
+            "backgroundFilename": "uploads/290.jpg",
+            "name": "R\u00fcB XZY Wartung",
+            "sharingUsers": null,
+            "user": "admin",
+            "viewComponents": [
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "",
+                    "script": "if (this.value) return \"<span style=\\\"border:solid 1px blue;width:100%; display:block;\\\"><table width=\\\"100%\\\" border =\\\"0\\\" cellspacing=\\\"0\\\" cellpadding=\\\"0\\\" style=\\\"padding: 0px; border-spacing: 0px !important;\\\"><tr><td bgcolor=red><a href='/ScadaBR/views.shtm?viewId=39#SA'><div align=center><font color=white size='4' style='background-color: red'><b><blink>&nbsp;St\u00f6rung&nbsp;Aggregate&nbsp;</blink></b></font></div></a></td><tr></table></span>\"\n\nreturn \"<span style=\\\"border:solid 1px blue;width:100%; display:block;\\\"><table width=\\\"100%\\\" border =\\\"0\\\" cellspacing=\\\"0\\\" cellpadding=\\\"0\\\" style=\\\"padding: 0px; border-spacing: 0px !important;\\\"><tr><td bgcolor=#C0C0C0><a href='/ScadaBR/views.shtm?viewId=39#SA'><div align=center><font size='3'  color=white style='background-color: #C0C0C0'><b>&nbsp;St\u00f6rung&nbsp;Aggregate&nbsp;</b></font></div></a></td><tr></table></span>\"\n",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 128,
+                    "y": 302
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "",
+                    "script": "if (this.value) return \"<span style=\\\"border:solid 1px blue;width:100%; display:block;\\\"><table width=\\\"100%\\\" border =\\\"0\\\" cellspacing=\\\"0\\\" cellpadding=\\\"0\\\" style=\\\"padding: 0px; border-spacing: 0px !important;\\\"><tr><td bgcolor=red><a href='/ScadaBR/views.shtm?viewId=5#SA'><div align=center><font color=white size='4' style='background-color: red'><b><blink>&nbsp;St\u00f6rung&nbsp;Allgemein&nbsp;</blink></b></font></div></a></td><tr></table></span>\"\n\nreturn \"<span style=\\\"border:solid 1px blue;width:100%; display:block;\\\"><table width=\\\"100%\\\" border =\\\"0\\\" cellspacing=\\\"0\\\" cellpadding=\\\"0\\\" style=\\\"padding: 0px; border-spacing: 0px !important;\\\"><tr><td bgcolor=#C0C0C0><a href='/ScadaBR/views.shtm?viewId=5#SA'><div align=center><font size='3'  color=white style='background-color: #C0C0C0'><b>&nbsp;St\u00f6rung&nbsp;Allgemein&nbsp;</b></font></div></a></td><tr></table></span>\"\n",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 492,
+                    "y": 299
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "",
+                    "script": "if (this.value) return \"<span style=\\\"border:solid 1px blue;width:100%; display:block;\\\"><table width=\\\"100%\\\" border =\\\"0\\\" cellspacing=\\\"0\\\" cellpadding=\\\"0\\\" style=\\\"padding: 0px; border-spacing: 0px !important;\\\"><tr><td bgcolor=red><a href='/ScadaBR/views.shtm?viewId=5#SA'><div align=center><font color=white size='4' style='background-color: red'><b><blink>&nbsp;St\u00f6rung&nbsp;Messungen&nbsp;</blink></b></font></div></a></td><tr></table></span>\"\n\nreturn \"<span style=\\\"border:solid 1px blue;width:100%; display:block;\\\"><table width=\\\"100%\\\" border =\\\"0\\\" cellspacing=\\\"0\\\" cellpadding=\\\"0\\\" style=\\\"padding: 0px; border-spacing: 0px !important;\\\"><tr><td bgcolor=#C0C0C0><a href='/ScadaBR/views.shtm?viewId=5#SA'><div align=center><font size='3'  color=white style='background-color: #C0C0C0'><b>&nbsp;St\u00f6rung&nbsp;Messungen&nbsp;</b></font></div></a></td><tr></table></span>\"\n",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 853,
+                    "y": 302
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;MP01&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 153,
+                    "y": 399
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;MP02&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 530,
+                    "y": 396
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;AA01&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 891,
+                    "y": 648
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;MP05&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 528,
+                    "y": 657
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;MP04&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 164,
+                    "y": 652
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;MP03&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 902,
+                    "y": 396
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;AA02&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 161,
+                    "y": 926
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;SK01&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 906,
+                    "y": 1216
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;SR01&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 543,
+                    "y": 1195
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;MV01&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 146,
+                    "y": 1215
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;MA02&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 915,
+                    "y": 924
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;MA01&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 534,
+                    "y": 925
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "",
+                    "script": "return \"<font color=black><font size='3'>Betriebsstunden: <font color=white><b><font size='3'><b><font size='2'>\" + this.value + \" h.<b><font color=black>\";",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 113,
+                    "y": 479
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 202,
+                    "y": 540
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": "",
+                    "type": "SIMPLE",
+                    "x": 202,
+                    "y": 524
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "",
+                    "script": "return \"<font color=black><font size='3'>Betriebsstunden: <font color=white><b><font size='3'><b><font size='2'>\" + this.value + \" h.<b><font color=black>\";",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 480,
+                    "y": 479
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "",
+                    "script": "return \"<font color=black><font size='3'>Betriebsstunden: <font color=white><b><font size='3'><b><font size='2'>\" + this.value + \" h.<b><font color=black>\";",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 476,
+                    "y": 735
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "",
+                    "script": "return \"<font color=black><font size='3'>Betriebsstunden: <font color=white><b><font size='3'><b><font size='2'>\" + this.value + \" h.<b><font color=black>\";",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 110,
+                    "y": 728
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "",
+                    "script": "return \"<font color=black><font size='3'>Betriebsstunden: <font color=white><b><font size='3'><b><font size='2'>\" + this.value + \" h.<b><font color=black>\";",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 847,
+                    "y": 477
+                },
+                {
+                    "content": "MP01 1st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 68,
+                    "y": 527
+                },
+                {
+                    "content": "AA01 2st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 801,
+                    "y": 815
+                },
+                {
+                    "content": "AA01 1st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 801,
+                    "y": 800
+                },
+                {
+                    "content": "MP05 2st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 421,
+                    "y": 805
+                },
+                {
+                    "content": "MP05 1st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 422,
+                    "y": 787
+                },
+                {
+                    "content": "MP04 2st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 61,
+                    "y": 807
+                },
+                {
+                    "content": "MP04 1st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 59,
+                    "y": 791
+                },
+                {
+                    "content": "MP03 2st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 783,
+                    "y": 544
+                },
+                {
+                    "content": "MP03 1st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 786,
+                    "y": 530
+                },
+                {
+                    "content": "MP02 2st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 433,
+                    "y": 538
+                },
+                {
+                    "content": "MP02 1st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 434,
+                    "y": 524
+                },
+                {
+                    "content": "MP01 2st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 68,
+                    "y": 544
+                },
+                {
+                    "content": "MA01 2st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 418,
+                    "y": 1078
+                },
+                {
+                    "content": "MA01 1st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 419,
+                    "y": 1056
+                },
+                {
+                    "content": "AA02 2st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 54,
+                    "y": 1076
+                },
+                {
+                    "content": "AA02 1st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 54,
+                    "y": 1053
+                },
+                {
+                    "content": "SR01 2st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 439,
+                    "y": 1344
+                },
+                {
+                    "content": "SR01 1st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 439,
+                    "y": 1323
+                },
+                {
+                    "content": "MA02 2st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 788,
+                    "y": 1079
+                },
+                {
+                    "content": "MA02 1st Wartung STD:",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 788,
+                    "y": 1055
+                },
+                {
+                    "content": "<font size='3'  color=blue><b>&nbsp;SK02&nbsp;</b></font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 164,
+                    "y": 1496
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": false,
+                    "nameOverride": "",
+                    "script": "return \"<div align=center><font color=\\\"black\\\"; size='3'>SK02 Anzahl Kippvorgaenge: <b><font color=\\\"white\\\">\" + this.value + \"</b>\";",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 85,
+                    "y": 1599
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": false,
+                    "nameOverride": "SK01 Anzahl Kippvorgaenge",
+                    "script": "return \"<div align=center><font color=\\\"black\\\"; size='3'>SK01 Anzahl Kippvorgaenge: <b><font color=\\\"white\\\">\" + this.value + \"</b>\";",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 811,
+                    "y": 1313
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "",
+                    "script": "return \"<div align=center><b><font color=\\\"black\\\"; size=5dp>Durchflussmengenzaehler&nbsp;CF01:<br><b><font color=\\\"blue\\\">\" + this.value + \" m \u00b3 </b>\";\n",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 381,
+                    "y": 1496
+                },
+                {
+                    "content": "<a href=\"#top\"><img src=\"http://www.sivec.lu/images/Scada/UpButton.gif\"></a>\n",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 729,
+                    "y": 597
+                },
+                {
+                    "content": "<a href=\"#top\"><img src=\"http://www.sivec.lu/images/Scada/UpButton.gif\"></a>\n",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 728,
+                    "y": 874
+                },
+                {
+                    "content": "<a href=\"#top\"><img src=\"http://www.sivec.lu/images/Scada/UpButton.gif\"></a>\n",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 728,
+                    "y": 1149
+                },
+                {
+                    "content": "<a href=\"#top\"><img src=\"http://www.sivec.lu/images/Scada/UpButton.gif\"></a>\n",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 728,
+                    "y": 1424
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "",
+                    "script": "if (this.value) \n  return \"<blink><font size='3'><font color=white><font style='background-color: red'><blink><b>&nbsp;Keller \u00dcberflutung&nbsp;</b><font color=black><font style='background-color: white'></blink>\" \nelse\n  return \"<font color=white><font size='3'><font style='background-color: #C0C0C0'>&nbsp;Keller \u00dcberflutung&nbsp;<font color=black><font style='background-color: white'>\";\n",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 19,
+                    "y": 228
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "St\u00f6rung Quittieren",
+                    "script": "if (this.value==0) return \"<img src=\\\"http://www.sivec.lu/images/Scada/Resetbutton.gif\\\">\";\nreturn \"<img src=\\\"http://www.sivec.lu/images/Scada/Resetbuttonflashing.gif\\\">\";\n",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 953,
+                    "y": 189
+                },
+                {
+                    "content": "  <font color=\"black\" font size='6' style=\"BACKGROUND-COLOR: white\">R\u00fcB Foetz</font>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 489,
+                    "y": 239
+                },
+                {
+                    "content": "<button onclick='mango.view.executeScript(\"SC_541365\");'>St\u00f6rung Test</button>",
+                    "dataPointXid": null,
+                    "scriptXid": "SC_541365",
+                    "text": "St\u00f6rung Test",
+                    "type": "SCRIPT_BUTTON",
+                    "x": 845,
+                    "y": 260
+                },
+                {
+                    "content": "<button onclick='mango.view.executeScript(\"SC_710316\");'>Reset</button>",
+                    "dataPointXid": null,
+                    "scriptXid": "SC_710316",
+                    "text": "Reset",
+                    "type": "SCRIPT_BUTTON",
+                    "x": 958,
+                    "y": 261
+                },
+                {
+                    "content": "<font color=blue><FONT style=\"BACKGROUND-COLOR: white\"><b>&nbsp;Links :&nbsp;<font color=black></b>\n",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 1038,
+                    "y": 165
+                },
+                {
+                    "content": "<a href='/ScadaBR/views.shtm?viewId=53'><font color=yellow FONT style=\"BACKGROUND-COLOR: black\"><b>Startseite</b></font></a>",
+                    "dataPointXid": null,
+                    "link": "/ScadaBR/views.shtm?viewId=53",
+                    "text": "<font color=yellow FONT style=\"BACKGROUND-COLOR: black\"><b>Startseite</b></font>",
+                    "type": "LINK",
+                    "x": 1040,
+                    "y": 180
+                },
+                {
+                    "content": "<a href='http://192.168.37.8:8080/ScadaBR/views.shtm?viewId=130#/'><font color=yellow><FONT style=\"BACKGROUND-COLOR: black\"><b>&nbsp;Reinigung&nbsp;<font color=black></b></a>",
+                    "dataPointXid": null,
+                    "link": "http://192.168.37.8:8080/ScadaBR/views.shtm?viewId=130#/",
+                    "text": "<font color=yellow><FONT style=\"BACKGROUND-COLOR: black\"><b>&nbsp;Reinigung&nbsp;<font color=black></b>",
+                    "type": "LINK",
+                    "x": 1040,
+                    "y": 195
+                },
+                {
+                    "content": "<a href='http://192.168.37.8:8080/ScadaBR/views.shtm?viewId=132#/'><font color=yellow><b><FONT style=\"BACKGROUND-COLOR: black\">&nbsp;St\u00f6rung&nbsp;<font color=black></b></a>",
+                    "dataPointXid": null,
+                    "link": "http://192.168.37.8:8080/ScadaBR/views.shtm?viewId=132#/",
+                    "text": "<font color=yellow><b><FONT style=\"BACKGROUND-COLOR: black\">&nbsp;St\u00f6rung&nbsp;<font color=black></b>",
+                    "type": "LINK",
+                    "x": 1040,
+                    "y": 210
+                },
+                {
+                    "content": "<a href='http://192.168.37.8:8080/ScadaBR/views.shtm?viewId=131#/'><font color=yellow><FONT style=\"BACKGROUND-COLOR: black\"><b>&nbsp;Rechnen&nbsp;<font color=black></b></a>",
+                    "dataPointXid": null,
+                    "link": "http://192.168.37.8:8080/ScadaBR/views.shtm?viewId=131#/",
+                    "text": "<font color=yellow><FONT style=\"BACKGROUND-COLOR: black\"><b>&nbsp;Rechnen&nbsp;<font color=black></b>",
+                    "type": "LINK",
+                    "x": 1040,
+                    "y": 225
+                },
+                {
+                    "content": "<a href='http://192.168.37.8:8080/ScadaBR/views.shtm?viewId=132#/'><font color=yellow><b><FONT style=\"BACKGROUND-COLOR: black\">&nbsp;Back&nbsp;<font color=black></b></a>",
+                    "dataPointXid": null,
+                    "link": "http://192.168.37.8:8080/ScadaBR/views.shtm?viewId=132#/",
+                    "text": "<font color=yellow><b><FONT style=\"BACKGROUND-COLOR: black\">&nbsp;Back&nbsp;<font color=black></b>",
+                    "type": "LINK",
+                    "x": 1040,
+                    "y": 240
+                },
+                {
+                    "content": "<a href='http://192.168.37.8:8080/ScadaBR/views.shtm#/'><font color=yellow><b><FONT style=\"BACKGROUND-COLOR: black\">&nbsp;General&nbsp;<font color=black></b></a>",
+                    "dataPointXid": null,
+                    "link": "http://192.168.37.8:8080/ScadaBR/views.shtm#/",
+                    "text": "<font color=yellow><b><FONT style=\"BACKGROUND-COLOR: black\">&nbsp;General&nbsp;<font color=black></b>",
+                    "type": "LINK",
+                    "x": 1040,
+                    "y": 255
+                },
+                {
+                    "dataPointXid": null,
+                    "maxListSize": 5,
+                    "minAlarmLevel": 1,
+                    "type": "ALARMLIST",
+                    "width": 1100,
+                    "x": 0,
+                    "y": 5
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 194,
+                    "y": 1076
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 195,
+                    "y": 1053
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 939,
+                    "y": 814
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 938,
+                    "y": 798
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 561,
+                    "y": 805
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 561,
+                    "y": 787
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 198,
+                    "y": 805
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 195,
+                    "y": 789
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 932,
+                    "y": 529
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 932,
+                    "y": 544
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 565,
+                    "y": 538
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 566,
+                    "y": 520
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": false,
+                    "nameOverride": "",
+                    "script": "return \"<font color=black><font size='3'>Betriebsstunden: <font color=white><b><font size='3'><b><font size='2'>\" + this.value + \" h.<b><font color=black>\";",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 870,
+                    "y": 1011
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "",
+                    "script": "return \"<font color=black><font size='3'>Betriebsstunden: <font color=white><b><font size='3'><b><font size='2'>\" + this.value + \" h.<b><font color=black>\";",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 468,
+                    "y": 1016
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "nameOverride": "",
+                    "script": "return \"<font color=black><font size='3'>Betriebsstunden: <font color=white><b><font size='3'><b><font size='2'>\" + this.value + \" h.<b><font color=black>\";",
+                    "settableOverride": false,
+                    "type": "SCRIPT",
+                    "x": 488,
+                    "y": 1288
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 939,
+                    "y": 1078
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 939,
+                    "y": 1055
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 570,
+                    "y": 1077
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 570,
+                    "y": 1055
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 580,
+                    "y": 1346
+                },
+                {
+                    "bkgdColorOverride": "",
+                    "dataPointXid": null,
+                    "displayControls": true,
+                    "displayPointName": false,
+                    "nameOverride": "",
+                    "settableOverride": true,
+                    "styleAttribute": null,
+                    "type": "SIMPLE",
+                    "x": 581,
+                    "y": 1322
+                },
+                {
+                    "content": "<a href=\"/ScadaBR/views.shtm?viewId=132#/\"><div id=\"PR\"><img src=\"http://www.sivec.lu/images/Scada/PrevButton.gif\"></a></div>\n\n<div id=\"PRpopup\" style=\"display: none\" align=center>\n<br><span style=\"border:solid 0px black;width:100%; display:block;\"><table width=\"100%\" border =\"0\" cellspacing=\"1\" cellpadding=\"5\"><tr><td bgcolor=#66b822><div align=center><font color=black><font size='1'>Vorherige<br>Seite</font></div></a></td><tr></table></span></div>\n\n<script type=\"text/javaScript\">\nvar ePR = document.getElementById('PR');\nePR.onmouseover = function() {\n  document.getElementById('PRpopup').style.display = 'block';\n}\nePR.onmouseout = function() {\n  document.getElementById('PRpopup').style.display = 'none';\n}\n</script>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 80,
+                    "y": 180
+                },
+                {
+                    "content": "<a href=\"http://192.168.37.8:8080/ScadaBR/views.shtm?viewId=1#/\"><div id=\"HO\"><img src=\"http://www.sivec.lu/images/Scada/SivecButton.gif\"></div></a>\n\n<div id=\"HOpopup\" style=\"display: none\" align=center>\n<br><span style=\"border:solid 0px black;width:100%; display:block;\"><table width=\"100%\" border =\"0\" cellspacing=\"1\" cellpadding=\"5\"><tr><td bgcolor=#66b822><div align=center><font color=black><font size='1'>Zuhause</font></div></a></td><tr></table></span></div>\n\n<script type=\"text/javaScript\">\nvar eHO = document.getElementById('HO');\neHO.onmouseover = function() {\n  document.getElementById('HOpopup').style.display = 'block';\n}\neHO.onmouseout = function() {\n  document.getElementById('HOpopup').style.display = 'none';\n}\n</script>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 140,
+                    "y": 180
+                },
+                {
+                    "content": "<a href=\"http://192.168.37.8:8080/ScadaBR/views.shtm?viewId=60#/\"><div id=\"FR\"><img src=\"http://www.sivec.lu/images/Scada/FRButton.gif\"></a></div>\n\n<div id=\"FRpopup\" style=\"display: none\" align=center>\n<br><span style=\"border:solid 0px black;width:100%; display:block;\"><table width=\"100%\" border =\"0\" cellspacing=\"1\" cellpadding=\"5\"><tr><td bgcolor=#66b822><div align=center><font color=black><font size='1'>Nachfolgendes<br>Bauwerk</font></div></a></td><tr></table></span></div>\n\n<script type=\"text/javaScript\">\nvar eFR = document.getElementById('FR');\neFR.onmouseover = function() {\n  document.getElementById('FRpopup').style.display = 'block';\n}\neFR.onmouseout = function() {\n  document.getElementById('FRpopup').style.display = 'none';\n}\n</script>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 50,
+                    "y": 180
+                },
+                {
+                    "content": "<a href=\"http://192.168.37.8:8080/ScadaBR/views.shtm?viewId=134#/\"><div id=\"FF\"><img src=\"http://www.sivec.lu/images/Scada/FFButton.gif\"></div></a>\n\n<div id=\"FFpopup\" style=\"display: none\" align=center>\n<br><span style=\"border:solid 0px black;width:100%; display:block;\"><table width=\"100%\" border =\"0\" cellspacing=\"1\" cellpadding=\"5\"><tr><td bgcolor=#66b822><div align=center><font color=black><font size='1'>Nachfolgendes<br>Bauwerk</font></div></a></td><tr></table></span></div>\n\n<script type=\"text/javaScript\">\nvar eFF = document.getElementById('FF');\neFF.onmouseover = function() {\n  document.getElementById('FFpopup').style.display = 'block';\n}\neFF.onmouseout = function() {\n  document.getElementById('FFpopup').style.display = 'none';\n}\n</script>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 230,
+                    "y": 180
+                },
+                {
+                    "content": "<div id=\"LO\"><a href=\"/ScadaBR/logout.htm\"><img src=\"http://www.sivec.lu/images/Scada/LogoutButton.gif\"></div></a>\n\n<div id=\"LOpopup\" style=\"display: none\" align=center>\n<br><span style=\"border:solid 0px black;width:100%; display:block;\"><table width=\"100%\" border =\"0\" cellspacing=\"1\" cellpadding=\"5\"><tr><td bgcolor=#66b822><div align=center><font color=black><font size='1'>Abmelden</font></div></a></td><tr></table></span></div>\n\n<script type=\"text/javaScript\">\nvar eLO = document.getElementById('LO');\neLO.onmouseover = function() {\n  document.getElementById('LOpopup').style.display = 'block';\n}\neLO.onmouseout = function() {\n  document.getElementById('LOpopup').style.display = 'none';\n}\n</script>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 170,
+                    "y": 180
+                },
+                {
+                    "content": "<div id=\"NE\"><a href=\"/ScadaBR/views.shtm?viewId=134#/\"><img src=\"http://www.sivec.lu/images/Scada/NextButton.gif\"></div></a>\n\n<div id=\"NEpopup\" style=\"display: none\" align=center>\n<br><span style=\"border:solid 0px black;width:100%; display:block;\"><table width=\"100%\" border =\"0\" cellspacing=\"1\" cellpadding=\"5\"><tr><td bgcolor=#66b822><div align=center><font color=black><font size='1'>N\u00e4chste<br>Seite</font></div></a></td><tr></table></span></div>\n\n<script type=\"text/javaScript\">\nvar eNE = document.getElementById('NE');\neNE.onmouseover = function() {\n  document.getElementById('NEpopup').style.display = 'block';\n}\neNE.onmouseout = function() {\n  document.getElementById('NEpopup').style.display = 'none';\n}\n</script>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 200,
+                    "y": 180
+                },
+                {
+                    "content": "<a href=\"http://192.168.37.8:8080/ScadaBR/view_edit.shtm?viewId=133\"><div id=\"RE\"><img src=\"http://www.sivec.lu/images/Scada/ReloadButton.gif\"></div></a>\n\n<div id=\"REpopup\" style=\"display: none\" align=center>\n<br><span style=\"border:solid 0px black;width:100%; display:block;\"><table width=\"100%\" border =\"0\" cellspacing=\"1\" cellpadding=\"5\"><tr><td bgcolor=#66b822><div align=center><font color=black><font size='1'>Neu<br>laden</font></div></a></td><tr></table></span></div>\n\n\n<script type=\"text/javaScript\">\nvar eRE = document.getElementById('RE');\neRE.onmouseover = function() {\n  document.getElementById('REpopup').style.display = 'block';\n}\neRE.onmouseout = function() {\n  document.getElementById('REpopup').style.display = 'none';\n}\n</script>",
+                    "dataPointXid": null,
+                    "type": "HTML",
+                    "x": 110,
+                    "y": 180
+                }
+            ],
+            "xid": "GV_990226"
+        }
+    ]
+}
