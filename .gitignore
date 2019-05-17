@@ -1,4 +1,3 @@
-pyfiles/.idea/
-.vscode/
-src/__pycache__/
-pyfiles/venv/
+ViewClone/__pycache__/
+ViewClone
+ViewClone/.idea/
