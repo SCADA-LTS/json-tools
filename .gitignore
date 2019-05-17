@@ -1,0 +1,4 @@
+pyfiles/.idea/
+.vscode/
+src/__pycache__/
+pyfiles/venv/
