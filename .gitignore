@@ -1,3 +1,4 @@
-ViewClone/__pycache__/
-ViewClone
-ViewClone/.idea/
+/ViewClone/__pycache__/
+/ViewClone
+/ViewClone/.idea/
+/ViewClone/view_clone/test/input_instances/lu.json
